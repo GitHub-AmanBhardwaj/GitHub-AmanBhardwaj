@@ -58,27 +58,6 @@
 
 ---
 
-## <div align="center">🚀 Projects</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/GitHub-AmanBhardwaj/AI-Project"><b>AI-Powered Image Recognition</b></a><br>
-        Built a CNN-based model using TensorFlow for real-time image classification.<br>
-        <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
-      </td>
-      <td align="center">
-        <a href="https://github.com/GitHub-AmanBhardwaj/DSA-Solutions"><b>DSA Solutions</b></a><br>
-        Collection of optimized solutions for LeetCode and Codeforces problems in C++ and Python.<br>
-        <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## <div align="center">🔗 Connect with Me</div>
 
 <div align="center">
