@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Enthusiast | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Student+of+AI+%26+Data+Science;C%2B%2B+%7C+Python+%7C+Flask+%7C+DSA+Enthusiast;Currently+building+AI+Projects;Love+solving+real-world+problems+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Student+of+AI+%26+Data+Science;C%2B%2B+%7C+Python+%7C+DSA+Enthusiast;Currently+building+AI+Projects;Love+solving+real-world+problems+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <hr>
@@ -11,14 +11,7 @@
 
 <ul>
   <li>🎓 B.Tech in AI & Data Science @ MITS Gwalior (2023–2027)</li>
-  <li>📘 B.S. in Data Science @ IIT Madras (2024–2028)</li>
   <li>🧠 Passionate about AI, Deep Learning, Cryptography, and Competitive Programming</li>
-  <li>🔭 Currently working on:
-    <ul>
-      <li><a href="https://github.com/GitHub-AmanBhardwaj/FlexVision-PoseDetector"><strong>FlexVision-PoseDetector</strong></a>: Real-time Pose Detection</li>
-      <li>Crop Disease Predictor using MobileNetV2</li>
-    </ul>
-  </li>
 </ul>
 
 <hr>
@@ -57,8 +50,8 @@
 <h2>🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/in-aman-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:amanjeetbhardwaj3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/whyamanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:whyamanbhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/Mr_Aman_Bhardwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
 </p>
 
