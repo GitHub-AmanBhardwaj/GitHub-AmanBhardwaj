@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" height="30" /> Aman Bhardwaj</div>
+# <div align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" height="5" /> Aman Bhardwaj</div>
 <div align="center">
   <h3>AI & Data Science Enthusiast | Competitive Programmer | Innovator</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=20&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Exploring+AI+%26+Data+Science;Mastering+C%2B%2B+%7C+Python+%7C+DSA;Building+Impactful+AI+Projects;Solving+Complex+Problems+%F0%9F%9A%80" alt="Typing SVG" />
