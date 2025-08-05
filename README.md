@@ -1,40 +1,27 @@
-# 🌟 About Me
-
-<p align="center">
-
-🎓 **B.Tech Student | AI & Data Science** at **MITS Gwalior** (2023	2027)  
-🧠 **Driven by:** Artificial Intelligence, Deep Learning, Cryptography, and Competitive Programming  
-🚀 **Mission:** Empowering real-world impact through advanced AI solutions  
-🌍 **Hobbies:** Coding marathons, writing tech blogs, and contributing to open-source
-
-</p>
+# <div align="center">Aman Bhardwaj</div>
+<div align="center">
+  <h3>AI & Data Science Enthusiast | Competitive Programmer | Innovator</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=20&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Exploring+AI+%26+Data+Science;Mastering+C%2B%2B+%7C+Python+%7C+DSA;Building+Impactful+AI+Projects;Solving+Complex+Problems+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🔥 What I Do
+## <div align="center">🌟 About Me</div>
 
-- **Problem Solver:** 300+ LeetCode/Codeforces problems tackled  
-- **Project Builder:** Constantly innovating with impactful AI and ML projects  
-- **Tech Explorer:** Thriving on curiosity, coffee, and continuous learning  
-- **Open-Source Advocate:** Sharing my work and collaborating to advance tech  
-- **Dream:** Building AI to explore the universe
+- 🎓 **Pursuing B.Tech in AI & Data Science** @ MITS Gwalior (2023–2027)
+- 🧠 **Passionate about**: Artificial Intelligence, Deep Learning, Cryptography, and Competitive Programming
+- 🚀 **Mission**: Leveraging AI to solve real-world challenges
+- 🌍 **Hobbies**: Coding marathons, tech blogging, and exploring open-source projects
 
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/whyamanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:whyamanbhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/></a>
-  <a href="https://leetcode.com/u/Mr_Aman_Bhardwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode"/></a>
-  <a href="https://x.com/whyamanbhardwaj"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)"/></a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="AI Animation" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## <div align="center">🛠️ Tech Stack</div>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br>C++</td>
@@ -55,32 +42,57 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br>Linux</td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Stats
+## <div align="center">🏆 GitHub Stats</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-AmanBhardwaj&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-AmanBhardwaj&theme=dracula&hide_border=true" alt="GitHub Streak"/><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-AmanBhardwaj&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-AmanBhardwaj&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-AmanBhardwaj&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## <div align="center">🔗 Connect with Me</div>
 
-<p align="center">
+<div align="center">
+  <a href="https://www.linkedin.com/in/whyamanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:whyamanbhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/Mr_Aman_Bhardwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://x.com/whyamanbhardwaj"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
+</div>
+
+---
+
+## <div align="center">📊 Contribution Graph</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitHub-AmanBhardwaj&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+</div>
 
 ---
 
-<blockquote align="center"><em>“The only way to learn a new programming language is by writing programs in it.”  
-  — Dennis Ritchie</em></blockquote>
+## <div align="center">💡 Fun Facts</div>
 
-<p align="center">
+- ⚡ Solved 300+ problems on LeetCode and Codeforces
+- ☕ Fueled by coffee and curiosity
+- 🌌 Dream project: Building an AI to explore the universe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9kt7L2Du/giphy.gif" width="150" alt="Coding Animation" />
+</div>
+
+---
+
+<div align="center">
+  <blockquote><em>“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie</em></blockquote>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=GitHub-AmanBhardwaj&color=brightgreen" alt="Profile Views" />
-</p>
-
+</div>
