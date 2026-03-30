@@ -5,6 +5,7 @@
 <p align="center">
   <b>AI & Data Science • Competitive Programming • Problem Solver</b>
 </p>
+
 ---
 
 ## About
@@ -20,19 +21,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,flask,opencv,numpy,pandas,tensorflow,git,github,linux" />
-</p>
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-AmanBhardwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=GitHub-AmanBhardwaj&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-AmanBhardwaj&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 ---
