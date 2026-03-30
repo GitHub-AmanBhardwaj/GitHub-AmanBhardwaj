@@ -29,35 +29,6 @@
 
 ---
 
-## Profiles
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/whyamanbhardwaj/" style="text-decoration:none; color:white;">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="20" style="vertical-align:middle; margin-right:6px;"/> 
-  <span style="vertical-align:middle; color:white;">LinkedIn</span>
-</a>
-
-<a href="mailto:whyamanbhardwaj@gmail.com" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" height="20" style="vertical-align:middle; margin-right:6px;"/> 
-  <span style="vertical-align:middle; color:white;">Gmail</span>
-</a>
-
-
-<a href="https://leetcode.com/u/whyamanbhardwaj/" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="20" style="vertical-align:middle; margin-right:6px;"/> 
-  <span style="vertical-align:middle; color:white;">LeetCode</span>
-</a>
-
-<a href="https://huggingface.co/whyamanbhardwaj" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" style="vertical-align:middle; margin-right:6px;"/> 
-  <span style="vertical-align:middle; color:white;">HuggingFace</span>
-</a>
-
-</p>
-
----
-
 ## Highlights
 
 - Solved 300+ problems across competitive programming platforms  
