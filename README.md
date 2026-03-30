@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AMAN+BHARDWAJ;AI+%7C+DATA+SCIENCE;BUILDING+WITH+INTELLIGENCE" />
+<h1 align="center" style="font-family: 'Major Mono Display', monospace; color: white;">
+  AMAN BHARDWAJ
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%7C+DATA+SCIENCE;COMPETITIVE+PROGRAMMER;BUILDING+INTELLIGENT+SYSTEMS" />
+</p>
 
 <p align="center">
   <b>AI & Data Science • Competitive Programming • Problem Solver</b>
