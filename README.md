@@ -38,21 +38,16 @@
   <span style="vertical-align:middle; color:white;">LinkedIn</span>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:whyamanbhardwaj@gmail.com" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=gmail" height="20" style="vertical-align:middle; margin-right:6px;"/> 
   <span style="vertical-align:middle; color:white;">Gmail</span>
 </a>
 
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/whyamanbhardwaj/" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="20" style="vertical-align:middle; margin-right:6px;"/> 
   <span style="vertical-align:middle; color:white;">LeetCode</span>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://huggingface.co/whyamanbhardwaj" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" style="vertical-align:middle; margin-right:6px;"/> 
