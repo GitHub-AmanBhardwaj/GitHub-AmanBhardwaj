@@ -30,27 +30,21 @@
 ---
 
 ## Profiles
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/whyamanbhardwaj/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+  <a href="https://www.linkedin.com/in/whyamanbhardwaj/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" style="display:inline-block; vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:whyamanbhardwaj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
+  
+  <a href="mailto:whyamanbhardwaj@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" style="display:inline-block; vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/whyamanbhardwaj/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36"/>
+
+  <a href="https://leetcode.com/u/whyamanbhardwaj/" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36" style="display:inline-block; vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/whyamanbhardwaj">
-    <!-- Fixed X logo for all themes -->
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://huggingface.co/whyamanbhardwaj">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="36"/>
+
+  <a href="https://huggingface.co/whyamanbhardwaj" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="36" style="display:inline-block; vertical-align:middle;"/>
   </a>
 </p>
 
