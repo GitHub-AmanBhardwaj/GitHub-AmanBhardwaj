@@ -1,98 +1,75 @@
-# <div align="center">Aman Bhardwaj</div>
-<div align="center">
-  <h3>AI & Data Science Enthusiast | Competitive Programmer | Innovator</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=20&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Exploring+AI+%26+Data+Science;Mastering+C%2B%2B+%7C+Python+%7C+DSA;Building+Impactful+AI+Projects;Solving+Complex+Problems+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AMAN+BHARDWAJ;AI+%7C+DATA+SCIENCE;BUILDING+WITH+INTELLIGENCE" />
+</h1>
+
+<p align="center">
+  <b>AI & Data Science • Competitive Programming • Problem Solver</b>
+</p>
 
 ---
 
-## <div align="center">🌟 About Me</div>
+## 🧠 About
 
-- 🎓 **Pursuing B.Tech in AI & Data Science** @ MITS Gwalior (2023–2027)
-- 🧠 **Passionate about**: Artificial Intelligence, Deep Learning, Cryptography, and Competitive Programming
-- 🚀 **Mission**: Leveraging AI to solve real-world challenges
-- 🌍 **Hobbies**: Coding marathons, tech blogging, and exploring open-source projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="AI Animation" />
-</div>
+- 🎓 B.Tech in **AI & Data Science** — MITS Gwalior  
+- ⚡ Focus: **AI, Deep Learning, Cryptography, DSA**  
+- 🚀 Building real-world AI systems  
+- 🧩 Strong interest in **problem solving & algorithms**
 
 ---
 
-## <div align="center">🛠️ Tech Stack</div>
+## ⚙️ Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br>C++</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br>Python</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br>HTML5</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br>CSS3</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" /><br>Flask</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" /><br>OpenCV</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" /><br>NumPy</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" /><br>Pandas</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" /><br>TensorFlow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br>Git</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br>GitHub</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br>Linux</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,flask,opencv,numpy,pandas,tensorflow,git,github,linux" />
+
+</p>
 
 ---
 
-## <div align="center">🏆 GitHub Stats</div>
+## 📊 GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-AmanBhardwaj&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-AmanBhardwaj&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-AmanBhardwaj&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-AmanBhardwaj&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=GitHub-AmanBhardwaj&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
----
-
-## <div align="center">🔗 Connect with Me</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/whyamanbhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:whyamanbhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://leetcode.com/u/Mr_Aman_Bhardwaj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://x.com/whyamanbhardwaj"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-AmanBhardwaj&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
 
 ---
 
-## <div align="center">📊 Contribution Graph</div>
+## 🔗 Connect
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitHub-AmanBhardwaj&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/whyamanbhardwaj/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:whyamanbhardwaj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://leetcode.com/u/Mr_Aman_Bhardwaj/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
+  </a>
+  <a href="https://x.com/whyamanbhardwaj">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
+  </a>
+</p>
 
 ---
 
-## <div align="center">💡 Fun Facts</div>
+## ⚡ Highlights
 
-- ⚡ Solved 300+ problems on LeetCode and Codeforces
-- ☕ Fueled by coffee and curiosity
-- 🌌 Dream project: Building an AI to explore the universe
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9kt7L2Du/giphy.gif" width="150" alt="Coding Animation" />
-</div>
+- 🧠 300+ DSA problems solved  
+- 🏆 Competitive Programming enthusiast  
+- 🔬 Working on AI-based projects  
 
 ---
 
-<div align="center">
-  <blockquote><em>“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie</em></blockquote>
-</div>
+## 💭
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GitHub-AmanBhardwaj&color=brightgreen" alt="Profile Views" />
-</div>
+<p align="center">
+  <i>"Programs must be written for people to read."</i><br>
+  — Dennis Ritchie
+</p>
