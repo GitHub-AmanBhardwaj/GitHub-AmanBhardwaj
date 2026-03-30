@@ -35,13 +35,13 @@
   <a href="mailto:whyamanbhardwaj@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/u/Mr_Aman_Bhardwaj/">
+  <a href="https://leetcode.com/u/whyamanbhardwaj/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
   </a>
   <a href="https://x.com/whyamanbhardwaj">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
   </a>
-  <a href="https://huggingface.co/YOUR_USERNAME">
+  <a href="https://huggingface.co/whyamanbhardwaj">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" />
   </a>
 
