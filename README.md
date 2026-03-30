@@ -32,26 +32,33 @@
 ## Profiles
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/whyamanbhardwaj/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:whyamanbhardwaj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/whyamanbhardwaj/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/whyamanbhardwaj">
-    <!-- Fixed X logo for all themes -->
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://huggingface.co/whyamanbhardwaj">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="36"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/whyamanbhardwaj/" style="text-decoration:none; color:white;">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="20" style="vertical-align:middle; margin-right:6px;"/> 
+  <span style="vertical-align:middle; color:white;">LinkedIn</span>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:whyamanbhardwaj@gmail.com" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=gmail" height="20" style="vertical-align:middle; margin-right:6px;"/> 
+  <span style="vertical-align:middle; color:white;">Gmail</span>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/whyamanbhardwaj/" style="text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="20" style="vertical-align:middle; margin-right:6px;"/> 
+  <span style="vertical-align:middle; color:white;">LeetCode</span>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://huggingface.co/whyamanbhardwaj" style="text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" style="vertical-align:middle; margin-right:6px;"/> 
+  <span style="vertical-align:middle; color:white;">HuggingFace</span>
+</a>
+
 </p>
 
 ---
