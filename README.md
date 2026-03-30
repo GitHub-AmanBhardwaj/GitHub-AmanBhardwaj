@@ -20,7 +20,8 @@
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,flask,opencv,numpy,pandas,tensorflow,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,flask,opencv,numpy,pandas,tensorflow,pytorch,git,github,linux" />
+  <img src="https://cdn.simpleicons.org/langchain/00D4FF" height="48" />
 </p>
 
 ---
