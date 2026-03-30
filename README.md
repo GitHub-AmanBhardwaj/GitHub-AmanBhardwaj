@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=28&pause=1000&color=var(--color-fg-muted)&center=true&vCenter=true&width=600&lines=AmAn+bHARdwAj;buildinG+witH+intelliGence" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AmAn+bHARdwAj;buildinG+witH+intelliGence" 
+    style="font-weight:600;" 
+  />
 </h1>
 
 <p align="center">
@@ -20,31 +23,36 @@
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,flask,opencv,numpy,pandas,tensorflow,pytorch,git,github,linux" />
-  <img src="https://cdn.simpleicons.org/langchain/00D4FF" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,flask,opencv,numpy,pandas,tensorflow,pytorch,git,github,linux" height="42"/>
+  <img src="https://cdn.simpleicons.org/langchain/00D4FF" height="42"/>
 </p>
 
 ---
 
 ## Profiles
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/whyamanbhardwaj/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:whyamanbhardwaj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/whyamanbhardwaj/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/whyamanbhardwaj">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
+    <!-- Fixed X logo for all themes -->
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" height="28"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://huggingface.co/whyamanbhardwaj">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" />
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="36"/>
   </a>
-
+</p>
 
 ---
 
