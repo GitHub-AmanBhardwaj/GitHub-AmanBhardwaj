@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AMAN+BHARDWAJ;AI+%7C+DATA+SCIENCE;BUILDING+WITH+INTELLIGENCE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AmAn+bHARdwAj;buildinG+witH+intelliGence" />
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## Profiles
 
-<p align="center">
+
   <a href="https://www.linkedin.com/in/whyamanbhardwaj/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -44,7 +44,7 @@
   <a href="https://huggingface.co/YOUR_USERNAME">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" />
   </a>
-</p>
+
 
 ---
 
