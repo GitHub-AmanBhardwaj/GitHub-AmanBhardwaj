@@ -8,22 +8,6 @@
 <sub>B.Tech, Artificial Intelligence &amp; Data Science — MITS Gwalior &nbsp;·&nbsp; Data Science &amp; Applications — IIT Madras</sub>
 </p>
 
-<p align="center">
-  <a href="mailto:whyamanbhardwaj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
-  <a href="https://linkedin.com/in/whyamanbhardwaj">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  <a href="https://github.com/GitHub-AmanBhardwaj">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  </a>
-  <a href="https://huggingface.co/whyamanbhardwaj">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="42"/>
-  </a>
-</p>
-
-
 <img src="assets/h-about.svg" width="290" alt="About" />
 
 <br>
